@@ -80,6 +80,6 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/FarelHanafi/FarelHanafi/blob/output/github-contribution-grid-snake-dark.svg"  />
+<img src="https://github.com/IrhanRen/FarelHanafi/blob/output/github-contribution-grid-snake-dark.svg"  />
 </div>
 
