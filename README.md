@@ -58,6 +58,8 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo"  />
 </div>
 
+[![Discord](https://discord.c99.nl/widget/theme-2/937249509694656513.png)](https://discord.com/users/1049584848634912768)
+
 ###
 
 
