@@ -58,8 +58,10 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo"  />
 </div>
 <div align="center">
-[![Discord](https://discord.c99.nl/widget/theme-3/1049584848634912768.png)](https://discord.com/users/1049584848634912768)
-</div>
+  
+  <img src="https://discord.c99.nl/widget/theme-3/1049584848634912768.png" height="31" alt="mongodb logo" href="https://discord.com/users/1049584848634912768" />
+  <img width="50" />
+  </div>
 ###
 
 
