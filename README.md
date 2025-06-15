@@ -1,6 +1,8 @@
-<h2 align="center">Hello👋, my name is Rein, and I live in Indonesia. I love exploring the virtual world and taking on thrilling challenges. Nice to meet you all!</h2>
-
-###
+<h2 align="center">
+  Hello 👋, I'm <strong>Franklin Von Elias</strong>, a curious mind from Indonesia 🌏.  
+  I love exploring the virtual realm, building intelligent systems, and taking on thrilling digital challenges.  
+  It’s a pleasure to meet you all — let’s create something legendary!
+</h2>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/25hLg0nyQlUAAAAd/tying-the.gif"  />
 
