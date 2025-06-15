@@ -1,7 +1,7 @@
 <h2 align="center">
   Hello 👋, I'm <strong>Franklin Von Elias</strong>, a curious mind from Indonesia 🌏.  
   I love exploring the virtual realm, building intelligent systems, and taking on thrilling digital challenges.  
-  It’s a pleasure to meet you all — let’s create something legendary!
+  It’s a pleasure to meet y'all — let’s create something legendary!
 </h2>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/25hLg0nyQlUAAAAd/tying-the.gif"  />
@@ -12,7 +12,6 @@
   </a>
  </div>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
@@ -64,8 +63,6 @@
   <img src="https://discord.c99.nl/widget/theme-3/1049584848634912768.png" height="31" alt="mongodb logo" href="https://discord.com/users/1049584848634912768" />
   <img width="50" />
   </div>
-###
-
 
 <div align="center">
   <a href="https://www.youtube.com/@Fayreinn" target="_blank">
