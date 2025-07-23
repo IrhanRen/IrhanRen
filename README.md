@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello 👋, I'm <strong>Franklin Von Elias</strong>, a curious mind from Indonesia 🌏.  
+  Hello 👋, I'm <strong>Elias</strong>, a curious mind from Indonesia 🌏.  
   I love exploring the virtual realm, building intelligent systems, and taking on thrilling digital challenges.  
   It’s a pleasure to meet y'all — let’s create something legendary!
 </h2>
