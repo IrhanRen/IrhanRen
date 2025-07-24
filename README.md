@@ -58,22 +58,8 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo"  />
 </div>
-<div align="center">
-  
-  <img src="https://discord.c99.nl/widget/theme-3/1049584848634912768.png" height="31" alt="mongodb logo" href="https://discord.com/users/1049584848634912768" />
-  <img width="50" />
-  </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/@Fayreinn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/irvnfrlh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/rein4e_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitch logo"  />
-  </a>
   <a href="https://discordapp.com/users/1049584848634912768" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
   </a>
